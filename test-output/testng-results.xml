@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-01T17:34:08 CET" name="Default suite" finished-at="2026-11-01T17:34:30 CET" duration-ms="21094">
+    <groups>
+    </groups>
+    <test started-at="2026-11-01T17:34:08 CET" name="Default test" finished-at="2026-11-01T17:34:30 CET" duration-ms="21094">
+      <class name="com.mytests.ButtonsDoubleClickRghtClick">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.mytests.ButtonsDoubleClickRghtClick@75db5df9]" started-at="2026-11-01T17:34:09 CET" name="openBrowser" finished-at="2026-11-01T17:34:10 CET" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="DoubleClickFuction()[pri:0, instance:com.mytests.ButtonsDoubleClickRghtClick@75db5df9]" started-at="2026-11-01T17:34:10 CET" name="DoubleClickFuction" finished-at="2026-11-01T17:34:12 CET" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoubleClickFuction -->
+      </class> <!-- com.mytests.ButtonsDoubleClickRghtClick -->
+      <class name="com.testng.test.TitleVerificationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.test.TitleVerificationTest@f79e]" started-at="2026-11-01T17:34:08 CET" name="setUp" finished-at="2026-11-01T17:34:08 CET" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.testng.test.TitleVerificationTest@f79e]" started-at="2026-11-01T17:34:12 CET" name="verifyTitle" finished-at="2026-11-01T17:34:14 CET" duration-ms="1640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="verifyTitleWithSoftAssert()[pri:0, instance:com.testng.test.TitleVerificationTest@f79e]" started-at="2026-11-01T17:34:14 CET" name="verifyTitleWithSoftAssert" finished-at="2026-11-01T17:34:14 CET" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleWithSoftAssert -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.testng.test.TitleVerificationTest@f79e]" started-at="2026-11-01T17:34:30 CET" name="closeBrowser" finished-at="2026-11-01T17:34:30 CET" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testng.test.TitleVerificationTest -->
+      <class name="com.mytests.InteractionsComplexesUI">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mytests.InteractionsComplexesUI@7ee8290b]" started-at="2026-11-01T17:34:14 CET" name="OpenBrowser" finished-at="2026-11-01T17:34:16 CET" duration-ms="2227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="hoverFuction()[pri:0, instance:com.mytests.InteractionsComplexesUI@7ee8290b]" started-at="2026-11-01T17:34:16 CET" name="hoverFuction" finished-at="2026-11-01T17:34:17 CET" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverFuction -->
+        <test-method is-config="true" signature="CloseBroxser()[pri:0, instance:com.mytests.InteractionsComplexesUI@7ee8290b]" started-at="2026-11-01T17:34:17 CET" name="CloseBroxser" finished-at="2026-11-01T17:34:18 CET" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBroxser -->
+      </class> <!-- com.mytests.InteractionsComplexesUI -->
+      <class name="com.firstpart.testng.TestAnnotations">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:06 CET" name="BeforeSuite" finished-at="2026-11-01T17:34:06 CET" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:08 CET" name="BeforeTest" finished-at="2026-11-01T17:34:08 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="testCase1()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="testCase1" finished-at="2026-11-01T17:34:18 CET" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="BeforeMethod" finished-at="2026-11-01T17:34:18 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="BeforeClass" finished-at="2026-11-01T17:34:18 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="AfterMethod" finished-at="2026-11-01T17:34:18 CET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method signature="testCase2()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="testCase2" finished-at="2026-11-01T17:34:18 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="BeforeMethod" finished-at="2026-11-01T17:34:18 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="AfterMethod" finished-at="2026-11-01T17:34:18 CET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:18 CET" name="AfterClass" finished-at="2026-11-01T17:34:18 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:30 CET" name="AfterTest" finished-at="2026-11-01T17:34:30 CET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:com.firstpart.testng.TestAnnotations@1f59a598]" started-at="2026-11-01T17:34:30 CET" name="AfterSuite" finished-at="2026-11-01T17:34:30 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.firstpart.testng.TestAnnotations -->
+      <class name="com.firstpart.testng.TestBasicAnnotation">
+        <test-method signature="testWithAnnotation()[pri:0, instance:com.firstpart.testng.TestBasicAnnotation@1e178745]" started-at="2026-11-01T17:34:18 CET" name="testWithAnnotation" finished-at="2026-11-01T17:34:18 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithAnnotation -->
+      </class> <!-- com.firstpart.testng.TestBasicAnnotation -->
+      <class name="com.firstpart.testng.TestNgPriorities">
+        <test-method signature="eTest()[pri:1, instance:com.firstpart.testng.TestNgPriorities@192c3f1e]" started-at="2026-11-01T17:34:18 CET" name="eTest" finished-at="2026-11-01T17:34:18 CET" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eTest -->
+        <test-method signature="bTest()[pri:2, instance:com.firstpart.testng.TestNgPriorities@192c3f1e]" started-at="2026-11-01T17:34:18 CET" name="bTest" finished-at="2026-11-01T17:34:18 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method signature="cTest()[pri:3, instance:com.firstpart.testng.TestNgPriorities@192c3f1e]" started-at="2026-11-01T17:34:18 CET" name="cTest" finished-at="2026-11-01T17:34:18 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTest -->
+        <test-method signature="dTest()[pri:4, instance:com.firstpart.testng.TestNgPriorities@192c3f1e]" started-at="2026-11-01T17:34:18 CET" name="dTest" finished-at="2026-11-01T17:34:18 CET" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dTest -->
+        <test-method signature="aTest()[pri:5, instance:com.firstpart.testng.TestNgPriorities@192c3f1e]" started-at="2026-11-01T17:34:18 CET" name="aTest" finished-at="2026-11-01T17:34:18 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+      </class> <!-- com.firstpart.testng.TestNgPriorities -->
+      <class name="com.firstpart.testng.TestNgAssertions">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.firstpart.testng.TestNgAssertions@26b3fd41]" started-at="2026-11-01T17:34:06 CET" name="SetUp" finished-at="2026-11-01T17:34:08 CET" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testHardAssertFuctions()[pri:0, instance:com.firstpart.testng.TestNgAssertions@26b3fd41]" started-at="2026-11-01T17:34:18 CET" name="testHardAssertFuctions" finished-at="2026-11-01T17:34:20 CET" duration-ms="2431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHardAssertFuctions -->
+        <test-method signature="openBrowser()[pri:1, instance:com.firstpart.testng.TestNgAssertions@26b3fd41]" started-at="2026-11-01T17:34:20 CET" name="openBrowser" finished-at="2026-11-01T17:34:22 CET" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- com.firstpart.testng.TestNgAssertions -->
+      <class name="com.mytests.FormPageComplete">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.mytests.FormPageComplete@2e377400]" started-at="2026-11-01T17:34:22 CET" name="OpenBrowser" finished-at="2026-11-01T17:34:27 CET" duration-ms="5279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="send()[pri:0, instance:com.mytests.FormPageComplete@2e377400]" started-at="2026-11-01T17:34:27 CET" name="send" finished-at="2026-11-01T17:34:29 CET" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send -->
+        <test-method signature="assertFunction()[pri:0, instance:com.mytests.FormPageComplete@2e377400]" started-at="2026-11-01T17:34:29 CET" name="assertFunction" finished-at="2026-11-01T17:34:29 CET" depends-on-methods="com.mytests.FormPageComplete.send" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertFunction -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mytests.FormPageComplete@2e377400]" started-at="2026-11-01T17:34:29 CET" name="closeBrowser" finished-at="2026-11-01T17:34:30 CET" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.mytests.FormPageComplete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
